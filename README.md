@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jae Rowel and I'm a Aspiring web developer</h2>
+<h2 align="left">Hi 👋! My name is Jae Rowel and I'm an Aspiring web developer</h2>
 
 ###
 
