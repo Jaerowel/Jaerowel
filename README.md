@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="700" src="https://media1.tenor.com/m/pXTAZP59zNQAAAAd/guts-berserk-eclipse.gif"  />
+  <img height="400" src="https://media1.tenor.com/m/pXTAZP59zNQAAAAd/guts-berserk-eclipse.gif"  />
 </div>
 
 ###
